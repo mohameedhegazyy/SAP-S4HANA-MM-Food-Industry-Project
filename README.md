@@ -19,4 +19,4 @@ This project demonstrates SAP S/4HANA MM implementation for a food manufacturing
 - SAP GUI
 
 ## Team leader
-- Mohamed Hegazy
+- Mohamed Hussein Soliman Hegazy
