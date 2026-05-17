@@ -1,4 +1,4 @@
-# SAP S/4HANA MM Graduation Project
+# SAP S/4HANA MM Graduation Project Group 5 team 5
 
 ## Food Industrial Scope
 
